@@ -1,0 +1,12 @@
+101a
+  }
+.
+100a
+  if (v31 == 0) {    // Don't allow Sonny to exit the police station until he
+    stop.motion(o0); // ... has attended the 13.00 briefing.
+    reposition.to(o0, 15, 137);
+    print("Although you're anxious to get on your beat, missing Sgt. Dooley's"
+          "briefing is not wise.");
+  }
+  else {
+.
